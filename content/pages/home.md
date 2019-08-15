@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Toutain Charles-Edouard
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
+featuredImage: 'https://ucarecdn.com/449f6814-28ce-402c-95a3-5dc0da0d44d0/'
 subtitle: Développeur WordPress | Odoo | Dolibarr
 meta:
   description: >-
