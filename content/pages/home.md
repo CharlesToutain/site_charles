@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 title: Toutain Charles-Edouard
 featuredImage: 'https://ucarecdn.com/5778274f-e43d-4b47-917a-04b21c8f707c/'
-subtitle: Développeur WordPress | Odoo | Dolibarr
+subtitle: Développeur WordPress | Odoo | Dolibarr | PHP | Python
 meta:
   description: >-
     Développeur WEB, ERP, CRM, E-Commerce. Je développe en PHP,Python,
