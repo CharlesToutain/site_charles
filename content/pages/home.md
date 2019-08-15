@@ -10,23 +10,14 @@ meta:
     JavaScript et les langages de balisage.
   title: Développeur Full-Stack | WordPress | Odoo | Dolibarr
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+Bienvenue sur mon site-blog statique ! J'insiste sur l'aspect statique de ce blog, en effet je l'ai réalisé avec un template qui gatsby starter, qui permet de construire des sites statiques tout en conservant une partie dynamisme et user friendly, car nous pouvons assez facilement connecter un CMS Headless, le tout versionné sur mon github
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+# JAMSTACK
 
-# Features
+* **[Gatsby](https://gatsbyjs.org)** générateur de site statique
+* **[Netlify CMS](https://github.com/netlify/netlify-cms)** utilisé pour le management de mes contenus
+* Menus dynamiques
+* React
+* Intégration d'instagram
 
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
-
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+##
